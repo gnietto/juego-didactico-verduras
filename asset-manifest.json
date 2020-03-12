@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/verduralia/static/css/main.c520e8b6.chunk.css",
+    "main.js": "/verduralia/static/js/main.d9dd4210.chunk.js",
+    "main.js.map": "/verduralia/static/js/main.d9dd4210.chunk.js.map",
+    "runtime-main.js": "/verduralia/static/js/runtime-main.2849f0d4.js",
+    "runtime-main.js.map": "/verduralia/static/js/runtime-main.2849f0d4.js.map",
+    "static/js/2.c6528d0e.chunk.js": "/verduralia/static/js/2.c6528d0e.chunk.js",
+    "static/js/2.c6528d0e.chunk.js.map": "/verduralia/static/js/2.c6528d0e.chunk.js.map",
+    "index.html": "/verduralia/index.html",
+    "precache-manifest.1b7953408f6170b182f59131a206766f.js": "/verduralia/precache-manifest.1b7953408f6170b182f59131a206766f.js",
+    "service-worker.js": "/verduralia/service-worker.js",
+    "static/css/main.c520e8b6.chunk.css.map": "/verduralia/static/css/main.c520e8b6.chunk.css.map",
+    "static/js/2.c6528d0e.chunk.js.LICENSE": "/verduralia/static/js/2.c6528d0e.chunk.js.LICENSE",
+    "static/media/Damasco.svg": "/verduralia/static/media/Damasco.e4529d59.svg",
+    "static/media/Durazno.svg": "/verduralia/static/media/Durazno.4b256e2d.svg",
+    "static/media/Frambuesa.svg": "/verduralia/static/media/Frambuesa.8fe4d531.svg",
+    "static/media/Frutilla.svg": "/verduralia/static/media/Frutilla.9c1667a1.svg",
+    "static/media/Manzana.svg": "/verduralia/static/media/Manzana.01d4c3b9.svg",
+    "static/media/Naranja.svg": "/verduralia/static/media/Naranja.51f4e51c.svg",
+    "static/media/Pera.svg": "/verduralia/static/media/Pera.7b9d03a8.svg",
+    "static/media/Platano.svg": "/verduralia/static/media/Platano.c6f9f011.svg",
+    "static/media/Sandia.svg": "/verduralia/static/media/Sandia.e6161ee8.svg",
+    "static/media/Uva.svg": "/verduralia/static/media/Uva.193f3821.svg",
+    "static/media/continuar_rojo.svg": "/verduralia/static/media/continuar_rojo.098009e9.svg",
+    "static/media/cuadro_info.svg": "/verduralia/static/media/cuadro_info.cd10a4d9.svg",
+    "static/media/enviar_rojo.svg": "/verduralia/static/media/enviar_rojo.e75a258b.svg",
+    "static/media/enviar_verde.svg": "/verduralia/static/media/enviar_verde.d112566c.svg",
+    "static/media/incognita.svg": "/verduralia/static/media/incognita.f790308b.svg",
+    "static/media/mayor_que.svg": "/verduralia/static/media/mayor_que.ab0cdaf0.svg",
+    "static/media/revisar_activo.svg": "/verduralia/static/media/revisar_activo.affd5e3d.svg",
+    "static/media/revisar_inactivo.svg": "/verduralia/static/media/revisar_inactivo.b9e90e7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2849f0d4.js",
+    "static/js/2.c6528d0e.chunk.js",
+    "static/css/main.c520e8b6.chunk.css",
+    "static/js/main.d9dd4210.chunk.js"
+  ]
+}
