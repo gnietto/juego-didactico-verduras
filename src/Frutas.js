@@ -13,9 +13,9 @@ import uva from './frutas/Uva.svg';
 const imgfrutas = [damasco, durazno, frambuesa, frutilla, manzana, naranja, pera, platano, sandia, uva];
 
 function frutasrandom() {
-	const aleatorio1 = Math.trunc(Math.random() * 9);
-	const aleatorio2 = Math.trunc(Math.random() * 8);
-	const aleatorio3 = Math.trunc(Math.random() * 10);
+	const aleatorio1 = Math.trunc(Math.random() * 17);
+	const aleatorio2 = Math.trunc(Math.random() * 7);
+	const aleatorio3 = Math.trunc(Math.random() * 13);
 	return [aleatorio3, aleatorio2, aleatorio1];
 };
 
